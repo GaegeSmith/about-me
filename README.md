@@ -20,3 +20,24 @@ My nighttime routine includes
 900535. Grab a snack, usually microwave popcorn
 93353. Watch another episode of Numbers
 933535. Go to bed waaaaaaaay to late for a school night
+
+
+## My Philosophy
+
+*Anything is possible, unless it's not*
+
+_Sometimes the best way to do something is also the simplest, and other times it's the dumbest_
+
+
+## Favorite Quotes
+
+**Hello there**
+
+__General Kenobi__
+
+
+## My Favorite Websites
+
+[DuckDuckGo](https://www.youtube.com/watch?v=QtBDL8EiNZo "https://duckduckgo.com/")<br>
+[GitLab](https://gitlab.com/ "The superior version of Git backup website")<br>
+

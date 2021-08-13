@@ -2,12 +2,15 @@
 ---
 ---
 ## Introduction
+
+[I have a NEW HOME]: https://www.youtube.com/channel/UCrZKM9sQJisRzMgLLcX_vOg
+
 My name is Gaege Smith.  I am 17 and really tall.  
+
 
 ## Hobbies
 ---
 ---
-
 My hobbies include
 - reading my Bible
 - playing board games like Ticket to Ride, Chess, Forbidden Desert, and more
@@ -40,4 +43,4 @@ __General Kenobi__
 
 [DuckDuckGo](https://www.youtube.com/watch?v=QtBDL8EiNZo "https://duckduckgo.com/")<br>
 [GitLab](https://gitlab.com/ "The superior version of Git backup website")<br>
-
+[I'm being tagged][I have a NEW HOME]

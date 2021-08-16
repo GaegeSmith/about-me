@@ -54,10 +54,10 @@ __General Kenobi__
 ## Persons of interest
 
 [Rick Atsley][1]<br>
-![Rick Atsley](https://github.com/GaegeSmith/about-me/blob/main/imgs/rickAtsley.png)<br>
+<img src="https://github.com/GaegeSmith/about-me/blob/main/imgs/rickAtsley.png" height="183px" width="275px"><br>
 [Dallas Jenkins][2]<br>
 ![Dallas Jenkins](https://github.com/GaegeSmith/about-me/blob/main/imgs/dallasJenkins.jpeg)<br>
 [Jonathan Roumie][3]<br>
-![Jonathan Roumie](https://github.com/GaegeSmith/about-me/blob/main/imgs/jonathanRoumie.jpg)<br>
+<img src="https://github.com/GaegeSmith/about-me/blob/main/imgs/jonathanRoumie.jpg" height="183px" width="275px"><br>
 
 

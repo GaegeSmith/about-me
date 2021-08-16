@@ -42,7 +42,7 @@ __General Kenobi__
 
 [2]: https://www.wikipedia.org/wiki/Dallas_Jenkins
 
-[3]: https://www.levilusko.com/
+[3]: https://www.imdb.com/name/nm0745751/
 
 ## My Favorite Websites
 
@@ -55,6 +55,6 @@ __General Kenobi__
 
 [Rick Atsley][1]<br>
 [Dallas Jenkins][2]<br>
-[][3]<br>
+[Johnathan Roumie][3]<br>
 
 

@@ -37,10 +37,18 @@ _Sometimes the best way to do something is also the simplest, and other times it
 **Hello there**
 
 __General Kenobi__
-
-
+[1]: https://en.wikipedia.org/wiki/Rick_Astley
+[2]: https://en.wikipedia.org/wiki/Dallas_Jenkins
+[3]: https://levilusko.com/
 ## My Favorite Websites
 
 [DuckDuckGo](https://www.youtube.com/watch?v=QtBDL8EiNZo "https://duckduckgo.com/")<br>
 [GitLab](https://gitlab.com/ "The superior version of Git backup website")<br>
 [I'm being tagged][I have a NEW HOME]
+
+
+## Persons of interest
+
+[Rick Atsley][1]<br>
+[Dallas Jenkins][2]<br>
+[][3]<br>

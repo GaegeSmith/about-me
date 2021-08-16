@@ -37,9 +37,13 @@ _Sometimes the best way to do something is also the simplest, and other times it
 **Hello there**
 
 __General Kenobi__
+
 [1]: https://www.wikipedia.org/wiki/Rick_Astley
+
 [2]: https://www.wikipedia.org/wiki/Dallas_Jenkins
+
 [3]: https://www.levilusko.com/
+
 ## My Favorite Websites
 
 [DuckDuckGo](https://www.youtube.com/watch?v=QtBDL8EiNZo "https://duckduckgo.com/")<br>

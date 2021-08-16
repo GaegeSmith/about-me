@@ -54,7 +54,9 @@ __General Kenobi__
 ## Persons of interest
 
 [Rick Atsley][1]<br>
+
 [Dallas Jenkins][2]<br>
+
 [Johnathan Roumie][3]<br>
 
 

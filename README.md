@@ -1,6 +1,5 @@
 # about-me
 ---
----
 ## Introduction
 
 [I have a NEW HOME]: https://www.youtube.com/channel/UCrZKM9sQJisRzMgLLcX_vOg

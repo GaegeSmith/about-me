@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    background-color: #fca8a8;
+    color: #000000; /* ; stand for the end of a statement */
+    font-family: fantasy;
+}
+table, th, td {
+    border: 2px solid black;
+    padding: 1em;
+    font-weight: lighter;
+    font-size: large;
+    border-collapse: collapse;
+  }
+img{
+    padding: 1em;
+}

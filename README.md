@@ -8,7 +8,7 @@
 - reading my Bible
 - playing board games like Ticket to Ride, Chess, Forbidden Desert, and more
 - playing video games like Minecraft, Halo, PUBG, Apex, and Rocket League
-- 
+- I like to 
 ---
 
 ## My Philosophy

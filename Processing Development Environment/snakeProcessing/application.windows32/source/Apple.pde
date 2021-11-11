@@ -7,10 +7,14 @@ class Apple {
     this.size = size;
     this.worth = worth;
   }  
-  void newPos() {    
+  void newPos() {
     this.pos.x = (round(random((width / this.size) - 2)) + 1) * this.size;    
     this.pos.y = (round(random((height / this.size) - 2)) + 1) * this.size;
-  }  
+    while (snake.appleInside()) {
+      this.pos.x = (round(random((width / this.size) - 2)) + 1) * this.size;    
+      this.pos.y = (round(random((height / this.size) - 2)) + 1) * this.size;
+    }
+  }
   void display() {    
     noStroke();    
     fill(255, 0, 0);    

@@ -8,7 +8,18 @@ class Snake {
     this.bp = bodyParts;    
     this.segSize = segSize;
     this.hasMoved = false;
-  }  
+  }
+  boolean appleInside() {
+    if (this.pos.x == apple.pos.x && this.pos.y == apple.pos.y) {
+      return true;
+    }
+    for (int i = 0; i < this.bp.size(); i++) {
+      if (this.bp.get(i).x == apple.pos.x && this.bp.get(i).y == apple.pos.y) {
+        return true;
+      }
+    }
+    return false;
+  }
   boolean checkIfBoutaDie() {    
     if (this.pos.x == width - (segSize) && moves.get(0).charAt(0) == 'd') {      
       return true;

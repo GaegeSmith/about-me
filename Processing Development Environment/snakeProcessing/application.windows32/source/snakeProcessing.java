@@ -253,10 +253,14 @@ class Apple {
     this.size = size;
     this.worth = worth;
   }  
-  public void newPos() {    
+  public void newPos() {
     this.pos.x = (round(random((width / this.size) - 2)) + 1) * this.size;    
     this.pos.y = (round(random((height / this.size) - 2)) + 1) * this.size;
-  }  
+    while (snake.appleInside()) {
+      this.pos.x = (round(random((width / this.size) - 2)) + 1) * this.size;    
+      this.pos.y = (round(random((height / this.size) - 2)) + 1) * this.size;
+    }
+  }
   public void display() {    
     noStroke();    
     fill(255, 0, 0);    
@@ -297,7 +301,18 @@ class Snake {
     this.bp = bodyParts;    
     this.segSize = segSize;
     this.hasMoved = false;
-  }  
+  }
+  public boolean appleInside() {
+    if (this.pos.x == apple.pos.x && this.pos.y == apple.pos.y) {
+      return true;
+    }
+    for (int i = 0; i < this.bp.size(); i++) {
+      if (this.bp.get(i).x == apple.pos.x && this.bp.get(i).y == apple.pos.y) {
+        return true;
+      }
+    }
+    return false;
+  }
   public boolean checkIfBoutaDie() {    
     if (this.pos.x == width - (segSize) && moves.get(0).charAt(0) == 'd') {      
       return true;
